@@ -14,6 +14,3 @@
   <img src="https://streak-stats.demolab.com?user=void-mckenzie&theme=github-light&hide_border=true" alt="Contribution streak" width="49.5%">
 </picture>
 
-#### 📈 Contributions
-
-<img src="https://ghchart.rshah.org/void-mckenzie" alt="Contribution graph" width="100%">
