@@ -1,1 +1,1 @@
-![Mex's GitHub stats](https://github-readme-stats.vercel.app/api?username=void-mckenzie&show_icons=true&theme=tokyonight)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=void-mckenzie&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
